@@ -12,10 +12,6 @@ body {
 text-align: center;
 }
 
-.landing-logo {
-    width: 20em;
-}
-
 .landing a {
     color: #fff;
     text-decoration: none;
@@ -24,5 +20,4 @@ text-align: center;
 
 .landing a:hover {
     color: #ff009d;
-    text-decoration: none;
 }
