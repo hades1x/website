@@ -2,22 +2,17 @@ body {
     background-color: #000;
     font-family: Arial, Helvetica, sans-serif;
     color: #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
 }
 
-.landing {
+.website {
 text-align: center;
 }
 
-.landing a {
+.website a {
     color: #fff;
     text-decoration: none;
-    transition: ease-in-out .1s;
 }
 
-.landing a:hover {
+.website a:hover {
     color: #ff009d;
 }
