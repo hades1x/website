@@ -1,13 +1,13 @@
 body {
-    background-color: #000;
+    text-align:center;
+    font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #fff;
-    text-decoration: none;
-    text-align: center;
-}
+    color: rgb(255, 255, 255);
+    background-color: black;
+  }
 
 .website a {
-    color: #fff;
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
